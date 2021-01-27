@@ -1,0 +1,4 @@
+Strong Değişken : Swiftte bir değişken tanımladığınızda default olarak strong yapıdadır. Strong değişkenler eğer bir referans tipteyse reference count’u arttır.
+
+Weak Değişken : Eğer bir değişken weak olarak tanımlanırsa reference count’u etkilemez. Optional durumları destekler, yani uygulamanın bir bölümünde refere ettiği nesne deallocate edilirse nil değer alabilir. İçerisinde oluşturulduğu parent class deallocate edilirse silinir.
+

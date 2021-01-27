@@ -1,0 +1,5 @@
+İf let, guard, optional chaining, force unwrapping
+
+Guard is using for functions its like a quit exit
+Force unwrapping !
+Optional chaining is automatically done by swift

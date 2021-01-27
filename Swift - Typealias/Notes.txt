@@ -1,0 +1,2 @@
+Typealias are just a way for you to rename an existing type, its making code clear
+Its like giving a nickname to type 

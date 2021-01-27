@@ -1,0 +1,6 @@
+Polymorphism like one subclass property to goes other class. You can change the method of subclass with override keyword. ın inheritance case you should use super.init(about smth) and after that use self
+
+? : optioanal casting might be true or false
+! : force casting im totally sure about the cond. if Im wrong Ill be happy in order to my app crush
+
+?? : nil coalescing operator, do it however anything goes wrong do what I say after the coalescing operator

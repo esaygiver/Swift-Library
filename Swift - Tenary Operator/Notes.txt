@@ -1,0 +1,1 @@
+Tenary operator is a bit of shorthand way to do an if-else statement 
