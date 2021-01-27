@@ -1,0 +1,7 @@
+Use escaping when the closure needs to outlive the life of its function
+When using these escaping closures again they are out there living in memory by themselves so they have to have references to you whatever they are using 
+
+
+Ist using generally before the closure in the parameters
+
+Its basically works in networking

@@ -1,0 +1,10 @@
+Class is reference types struct is value types. Such as Im gonna make representation about smthin and I will give hardcopies to each of one who gonna listen to me. And they can take a notes, making their comments on that paper however anyone can not see other ones notes or comments etc. this is a value type. On the other hand this case will same and im saying Im gonna make this representation online so I will open a drive .doc folder. If anyone can change, makes a comment it will be shown to the other ones because its one doc file this is reference type.
+
+Classes can use inheritance however structs cannot
+
+When u use class you need to initialize your properties but structs you don't need it
+
+Value types is copy
+
+
+Swiftte kullandığımız temel veri tiplerine(Int, Double, Struct, Enum, Bool v.s.) atadığımız değişken vasıtasıyla direkt erişim imkanına sahibiz yani değişkenin bellek üzerinde gösterdiği alanda verimizin kendisi bulunur. Ancak referans veri tipi(Class) dediğimiz veriler için aynı durum söz konusu değildir. Aralarında ki fark, temel veri tipleri belleğimizin Stack bölgesinde tutulur bu sebeple erişimleri hızlıdır ancak referans veri tipleri, temel veri tiplerine göre çok büyük boyutta olabildikleri için belleğimizin Heap bölgesinde tutulur.

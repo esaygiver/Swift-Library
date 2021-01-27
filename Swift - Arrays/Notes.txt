@@ -1,0 +1,10 @@
+Values ;
+A collection containing just the values of the dictionary.Like;
+var values: Values { get set }
+
+max();
+it is a function to get max repeated value in arrays or dicts.
+let heights = [67.5, 65.7, 64.3, 61.1, 58.5, 60.3, 64.9]
+let greatestHeight = heights.max()
+print(greatestHeight)
+// Prints "Optional(67.5)"

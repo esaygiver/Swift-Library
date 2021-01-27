@@ -1,0 +1,5 @@
+Int is a number
+String represents texts, u need to use ""
+Double has at least 15 decimal places
+Float has at least 6 d.places
+Bool is true or false

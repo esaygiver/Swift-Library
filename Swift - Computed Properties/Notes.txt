@@ -1,0 +1,8 @@
+Getters and setters are rewriting a function actually with newValue. Smth like 
+Var salary: Double {
+	Get {
+		monthlySalary * Double(12)
+	Set {
+		annualSalary: Int = newValue * 12  
+			
+		

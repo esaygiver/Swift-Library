@@ -1,0 +1,9 @@
+Communication patterns is that mean 2 views can communicate eachother. There is 2 ways first of that delegates and protocols and the second one is notifications and observes.
+
+Delegates and protocols are one to one communication, note and observes are one to many pattern
+
+Useful for circle frame;
+chooseSideButton.layer.cornerRadius = chooseSideButton.frame.size.height / 2
+
+
+Protocols describes what properties and methods a conforming type must have

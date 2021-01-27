@@ -1,0 +1,5 @@
+Private, it can be used only their brackets
+Fileprivate, can only used their files
+İnternal its kind a like default behavior
+
+
