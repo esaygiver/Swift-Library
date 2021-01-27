@@ -1,0 +1,9 @@
+Whenever you see throws, you probably use try or do try catch block together
+
+Do {
+	let .. = try .. 
+Catch {
+	print(error.localizedDescription)
+
+
+İt works like if else statements. If smth successful at do block, operation is successful.however in do block operation is unsuccessful then the path is going to catch block

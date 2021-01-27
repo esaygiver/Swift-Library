@@ -1,0 +1,3 @@
+Hashmaps works like dictionary.
+
+"1" as character = 1  to differentiate string to int as character

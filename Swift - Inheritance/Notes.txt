@@ -1,0 +1,1 @@
+If you use optional properties you don't need to initialize it.

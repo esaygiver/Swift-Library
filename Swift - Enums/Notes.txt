@@ -1,0 +1,3 @@
+Enums are group of related values.
+Enum has cases
+CaseIterable has access to all cases

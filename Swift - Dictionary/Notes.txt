@@ -1,0 +1,6 @@
+Tuples, çoklu değerleri tek bir bileşik değere dönüştürür. Bir tuple’daki değerler herhangi bir türde olabilir ve birbiriyle aynı türde olmaları gerekmez
+var myTuples = (58,"Esay") 
+print(myTuples.0) -> 58
+print(myTuples.1) -> "Esay"
+
+However in big projects structs and classes are more comfortable than tuples
